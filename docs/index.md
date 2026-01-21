@@ -1,13 +1,29 @@
 ---
-title: Home   # Title of the page, which will be displayed in the navigation and the browser title.
-layout: page  # Layout type, usually 'page' for standard pages.
-nav_order: 1  # Order in the navigation menu.
-description:  # A brief description of the page for SEO purposes.
-permalink: /  # Optional: Custom URL for the page. It will serve as the slug. For example, /home/
-created_date:  # Date when the page was created. Should be in YYYY-MM-DD format.
-has_children: False  # Set to True if the page has sub-pages.
+title: "Workshop Recording: ArcGIS Pro - Loading and Manipulating Data (Oct. 15, 2024)"
+layout: "home"
+description: ""
+permalink: "/"  #! Remove this if not the homepage
 ---
 
-# Just the docs template
+# Workshop Recording: ArcGIS Pro - Loading and Manipulating Data (Oct. 15, 2024)
 
-See the <a href="https://mdlutoronto.github.io/jtd-edit-setup/docs/create-new-guide/" target="_blank"> Create a New Guide</a> page to get started with creating your own guide!
+This page provides a video recording of a workshop on ArcGIS Pro that focuses on loading and manipulating data.
+
+**Workshop Description:**
+
+Whether you’re completely new to GIS, looking to expand your skills, or need a refresher, this workshop will cover key topics such as:
+
+* Creating projects
+* Adding vector and raster data layers
+* Understanding map projections
+* Using attribute tables
+* Symbolizing and labeling data
+* And more
+
+Don’t miss this opportunity to enhance your modern GIS skills using this powerful, industry\-standard software.
+
+UofT Libraries provides a free license for ArcGIS Pro. To obtain the software, fill out our [request form](https://mdl.library.utoronto.ca/arcmap/request).
+
+[**Recording \- 1:49:55**](https://play.library.utoronto.ca/watch/6afb864bc7154cf7ff784fdb30c33b41) **\&**[**Slides**](https://maps.library.utoronto.ca/workshops/ArcGISPro_LoadingAndManipulatingData/ArcGIS%20Pro%20Loading%20and%20Manipulating%20Data.pdf)
+
+Technique: [Mapping](/technique/mapping), [Spatial Analysis](/technique/spatial-analysis) \| Tools: [ArcGIS Pro](/taxonomy/term/70)**Date Created:** 2025\-01\-24**Updated:** 2025\-02\-10
