@@ -6,6 +6,9 @@ permalink: "/"  #! Remove this if not the homepage
 staff:
  - name: Cole White
    link: https://library.utoronto.ca/staff/cole-white
+maintainer:
+ - name: Cole White
+   link: https://library.utoronto.ca/staff/cole-white
 ---
 
 # Workshop Recording: ArcGIS Pro - Loading and Manipulating Data (Oct. 15, 2024)
