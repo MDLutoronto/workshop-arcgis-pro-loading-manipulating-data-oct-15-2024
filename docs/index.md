@@ -9,6 +9,7 @@ staff:
 maintainer:
  - name: Cole White
    link: https://library.utoronto.ca/staff/cole-white
+created_date: 2025-01-24
 ---
 
 # Workshop Recording: ArcGIS Pro - Loading and Manipulating Data (Oct. 15, 2024)
@@ -26,13 +27,22 @@ Whether you’re completely new to GIS, looking to expand your skills, or need a
 * Symbolizing and labeling data
 * And more
 
-Don’t miss this opportunity to enhance your modern GIS skills using this powerful, industry\-standard software.
+Don’t miss this opportunity to enhance your modern GIS skills using this powerful, industry-standard software.
 
 UofT Libraries provides a free license for ArcGIS Pro. Instructions on accessing and installing the software are here: [https://mdl.library.utoronto.ca/technology/tutorials/downloading-installing-and-licensing-arcgis-pro](https://mdl.library.utoronto.ca/technology/tutorials/downloading-installing-and-licensing-arcgis-pro). Please note that ArcGIS Pro is Windows-only. If you don't have Windows, you can use the software on campus (see [https://mdl.library.utoronto.ca/technology/computers-with-gis-software](https://mdl.library.utoronto.ca/technology/computers-with-gis-software)).
 
 
-[**Recording \- 1:49:55**](https://play.library.utoronto.ca/watch/6afb864bc7154cf7ff784fdb30c33b41) **&** [**Slides**](https://maps.library.utoronto.ca/workshops/ArcGISPro_LoadingAndManipulatingData/ArcGIS%20Pro%20Loading%20and%20Manipulating%20Data.pdf)
+[**Recording - 1:49:55**](https://play.library.utoronto.ca/watch/6afb864bc7154cf7ff784fdb30c33b41)
 
-**Technique**: [Mapping](https://mdlutoronto.github.io/tutorials-search/?technique=Mapping), [Spatial Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Spatial+Analysis) \| **Tools:** [ArcGIS Pro](https://mdlutoronto.github.io/tutorials-search/?tool=ArcGIS+Pro)
+<iframe width="560" height="315" src="https://play.library.utoronto.ca/embed/6afb864bc7154cf7ff784fdb30c33b41" frameborder="0" allowfullscreen> iframe not supported </iframe>
 
-**Date Created:** 2025\-01\-24 **Updated:** 2025\-02\-10
+[**Slides**](https://maps.library.utoronto.ca/workshops/ArcGISPro_LoadingAndManipulatingData/ArcGIS%20Pro%20Loading%20and%20Manipulating%20Data.pdf)
+
+<iframe
+  src="https://maps.library.utoronto.ca/workshops/ArcGISPro_LoadingAndManipulatingData/ArcGIS%20Pro%20Loading%20and%20Manipulating%20Data.pdf"
+  width="100%"
+  height=500
+  style="border: none;">
+</iframe>
+
+**Technique**: [Mapping](https://mdlutoronto.github.io/tutorials-search/?technique=Mapping), [Spatial Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Spatial+Analysis) | **Tools:** [ArcGIS Pro](https://mdlutoronto.github.io/tutorials-search/?tool=ArcGIS+Pro)
