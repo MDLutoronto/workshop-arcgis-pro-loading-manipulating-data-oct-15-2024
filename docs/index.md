@@ -4,11 +4,11 @@ layout: "home"
 description: "This page provides a video recording of a workshop on ArcGIS Pro that focuses on loading and manipulating data."
 permalink: "/"  #! Remove this if not the homepage
 staff:
- - name: Cole White
-   link: https://library.utoronto.ca/staff/cole-white
+    - name: Cole White    
+      link: https://library.utoronto.ca/staff/cole-white
 maintainer:
- - name: Cole White
-   link: https://library.utoronto.ca/staff/cole-white
+    - name: Cole White
+      link: https://library.utoronto.ca/staff/cole-white
 created_date: 2025-01-24
 ---
 
@@ -29,7 +29,7 @@ Whether you’re completely new to GIS, looking to expand your skills, or need a
 
 Don’t miss this opportunity to enhance your modern GIS skills using this powerful, industry-standard software.
 
-UofT Libraries provides a free license for ArcGIS Pro. Instructions on accessing and installing the software are here: [https://mdl.library.utoronto.ca/technology/tutorials/downloading-installing-and-licensing-arcgis-pro](https://mdl.library.utoronto.ca/technology/tutorials/downloading-installing-and-licensing-arcgis-pro). Please note that ArcGIS Pro is Windows-only. If you don't have Windows, you can use the software on campus (see [https://mdl.library.utoronto.ca/technology/computers-with-gis-software](https://mdl.library.utoronto.ca/technology/computers-with-gis-software)).
+UofT Libraries provides a free license for ArcGIS Pro. Instructions on accessing and installing the software are here: [https://mdlutoronto.github.io/arcgis-pro-install-license/](https://mdlutoronto.github.io/arcgis-pro-install-license/). Please note that ArcGIS Pro is Windows-only. If you don't have Windows, you can use the software on campus (see [https://mdl.library.utoronto.ca/technology/computers-with-gis-software](https://mdl.library.utoronto.ca/technology/computers-with-gis-software)).
 
 
 [**Recording - 1:49:55**](https://play.library.utoronto.ca/watch/6afb864bc7154cf7ff784fdb30c33b41)
@@ -45,4 +45,4 @@ UofT Libraries provides a free license for ArcGIS Pro. Instructions on accessing
   style="border: none;">
 </iframe>
 
-**Technique**: [Mapping](https://mdlutoronto.github.io/tutorials-search/?technique=Mapping), [Spatial Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Spatial+Analysis) | **Tools:** [ArcGIS Pro](https://mdlutoronto.github.io/tutorials-search/?tool=ArcGIS+Pro)
+**Technique**: [Mapping](https://mdlutoronto.github.io/tutorials-search/?technique=Mapping), [Spatial Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Spatial+Analysis) \| **Tools:** [ArcGIS Pro](https://mdlutoronto.github.io/tutorials-search/?tool=ArcGIS+Pro)
