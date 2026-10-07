@@ -29,7 +29,7 @@ Whether you’re completely new to GIS, looking to expand your skills, or need a
 
 Don’t miss this opportunity to enhance your modern GIS skills using this powerful, industry-standard software.
 
-UofT Libraries provides a free license for ArcGIS Pro. Instructions on accessing and installing the software are here: [https://mdlutoronto.github.io/arcgis-pro-install-license/](https://mdlutoronto.github.io/arcgis-pro-install-license/). Please note that ArcGIS Pro is Windows-only. If you don't have Windows, you can use the software on campus (see [https://mdl.library.utoronto.ca/technology/computers-with-gis-software](https://mdl.library.utoronto.ca/technology/computers-with-gis-software)).
+UofT Libraries provides a free license for ArcGIS Pro. Instructions on accessing and installing the software are here: [https://mdlutoronto.github.io/arcgis-pro-install-license/](https://mdlutoronto.github.io/arcgis-pro-install-license/). Please note that ArcGIS Pro is Windows-only. If you don't have Windows, you can use the software on campus (see [https://faq.library.utoronto.ca/faq/where-can-i-find-computers-gis-software?_gl=1*2geh3u*_ga*MjE0MTczMTE2LjE3OTEzODI2MDE.*_ga_N97V7GPQQJ*czE3OTEzODI2MDEkbzEkZzEkdDE3OTEzOTcyMjkkajUzJGwwJGgw](https://faq.library.utoronto.ca/faq/where-can-i-find-computers-gis-software?_gl=1*2geh3u*_ga*MjE0MTczMTE2LjE3OTEzODI2MDE.*_ga_N97V7GPQQJ*czE3OTEzODI2MDEkbzEkZzEkdDE3OTEzOTcyMjkkajUzJGwwJGgw)).
 
 
 [**Recording - 1:49:55**](https://play.library.utoronto.ca/watch/6afb864bc7154cf7ff784fdb30c33b41)
